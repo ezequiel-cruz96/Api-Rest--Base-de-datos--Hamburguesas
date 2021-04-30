@@ -1,6 +1,6 @@
 {
     "Datos": [
-      { "id": 0, "Producto": "Hamburguesa", "Categoria": "Hamburguesa", "Descripcion": "Hamburguesa con cheddar","Precio":"570" },
-      { "id": 1, "Producto": "Hamburguesa", "Categoria": "Hamburguesa", "Descripcion": "Hamburguesa con doble medallon de carne con cheddar y bacon","Precio":"640" }
+      { "id": 0, "Producto": "Hamburguesa", "Categoria": "Hamburguesa", "Descripcion": "Hamburguesa con cheddar","Precio":"570","Img":"./imagenes/html5-cheddar.jpg" },
+      { "id": 1, "Producto": "Hamburguesa", "Categoria": "Hamburguesa", "Descripcion": "Hamburguesa con doble medallon de carne con cheddar y bacon","Precio":"640","Img":"./imagenes/html5-doble-cheddar.jpg" }
     ]
   }
