@@ -1,10 +1,18 @@
 {
-    "Datos": [
-      { "id": 0, "Producto": "Hamburguesa con cheddar", "Categoria": "Hamburguesa", "Descripcion": "Hamburguesa con medallón simple de carne con cheddar","Precio":"570","Img":"/imagenes/hamburguesa-cheddar.jpg" },
+    "Hamburguesas": [
+      { "id": 0, "Producto": "Hamburguesa con chedda", "Categoria": "Hamburguesa", "Descripcion": "Hamburguesa con medallón simple de carne con cheddar","Precio":"570","Img":"/imagenes/hamburguesa-cheddar.jpg" },
       { "id": 1, "Producto": "Hamburguesa doble cheddar", "Categoria": "Hamburguesa", "Descripcion": "Hamburguesa con doble medallón de carne con cheddar y bacon","Precio":"640","Img":"/imagenes/hamburguesa-doble-cheddar.jpg" },
       { "id": 2, "Producto": "Hamburguesa de pollo", "Categoria": "Hamburguesa", "Descripcion": "Hamburguesa con medallón de pollo, cebolla morada, tomate y salsa Burguer Code","Precio":"480","Img":"/imagenes/hamburguesa-pollo.jpg" },
       { "id": 3, "Producto": "Hamburguesa de entraña", "Categoria": "Hamburguesa", "Descripcion": "Hamburguesa con medallón de entraña ahumada, mix de hiervas y queso gouda","Precio":"720","Img":"/imagenes/hamburguesa-entraña.jpg" },
       { "id": 4, "Producto": "Hamburguesa de lenteja", "Categoria": "Hamburguesa", "Descripcion": "Hamburguesa con medallón de lenteja con tomate y rúcula","Precio":"664","Img":"/imagenes/hamburguesa-lenteja.jpg" },
       { "id": 5, "Producto": "Hamburguesa de roquefort", "Categoria": "Hamburguesa", "Descripcion": "Hamburguesa con doble medallón de carne, cebolla morada y roquefort","Precio":"690","Img":"/imagenes/hamburguesa-roquefort.jpg" }
+    ],
+    "Fritas":[
+      { "id": 6, "Producto": "Papas fritas clásicas ", "Categoria": "Papas", "Descripcion": "Porción de papas clásicas ","Precio":"320","Img":"/imagenes/papas-clasicas.jpg" },
+      { "id": 7, "Producto": "Papas fritas Egg ", "Categoria": "Papas", "Descripcion": "Papas fritas con huevo y jamon crudo","Precio":"440","Img":"/imagenes/papas-huevos.jpg" },
+      { "id": 8, "Producto": "Papas rústicas ", "Categoria": "Papas", "Descripcion": "Papas al natural con cheddar y bacon","Precio":"390","Img":"/imagenes/papas-rusticas.jpg" },
+      { "id": 9, "Producto": "Papas al verdeo ", "Categoria": "Papas", "Descripcion": "Papas fritas con verde y salsa Burger Code","Precio":"410","Img":"/imagenes/papas-verde.jpg" },
+      { "id": 10, "Producto": "Papas españolas ", "Categoria": "Papas", "Descripcion": "Papas españolas con cebolla morada","Precio":"350","Img":"/imagenes/papas-españolas.jpg" },
+      { "id": 11, "Producto": "Papas Burguer Code ", "Categoria": "Papas", "Descripcion": "Papas especiales con chedar, jamón serrano y mostaza dulce","Precio":"500","Img":"/imagenes/papas-especiales.jpg"}
     ]
   }
