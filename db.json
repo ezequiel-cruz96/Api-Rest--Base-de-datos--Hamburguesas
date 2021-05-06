@@ -2,5 +2,10 @@
     "Datos": [
       { "id": 0, "Producto": "Hamburguesa", "Categoria": "Hamburguesa", "Descripcion": "Hamburguesa con cheddar","Precio":"570","Img":"/imagenes/html5-cheddar.jpg" },
       { "id": 1, "Producto": "Hamburguesa", "Categoria": "Hamburguesa", "Descripcion": "Hamburguesa con doble medallon de carne con cheddar y bacon","Precio":"640","Img":"/imagenes/html5-doble-cheddar.jpg" }
+    ],
+    "Sanguches":[
+      { "id": 2, "Producto": "Hamburguesa", "Categoria": "Hamburguesa", "Descripcion": "Hamburguesa con doble medallon de carne con cheddar y bacon vos decis","Precio":"640","Img":"/imagenes/html5-doble-cheddar.jpg" }
+
     ]
+
   }
